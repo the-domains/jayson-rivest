@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Jayson Rivest
+  email: jayson@jaysonrivest.com
+  url: www.jaysonrivest.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/94c8eb78-3524-4823-8648-285551d0f740.png
 name: Jayson Rivest
