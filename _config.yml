@@ -1,20 +1,4 @@
-name: Jayson Rivest
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.32143
-title: Jayson Rivest
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#002b4d'
@@ -26,4 +10,22 @@ color:
   lightness: 1
   saturation: 0.375
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/94c8eb78-3524-4823-8648-285551d0f740.png
+name: Jayson Rivest
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Jayson Rivest
 purpose: []
