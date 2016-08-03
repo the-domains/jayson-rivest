@@ -30,6 +30,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Welcome
+    id: d9007008-9723-48ee-91b9-5180f618a598
+    type: content
 favicon: null
 title: Jayson Rivest
 purpose: []
